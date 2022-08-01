@@ -1,7 +1,5 @@
-# ESTRUTURAS-DE-REPETICAO-JAVA
 
-
-🔺 ESTRUTURAS DE REPETIÇÃO 
+🔺 ESTRUTURAS DE REPETIÇÃO
 > Uma estrutura de repetição permite que uma sequência de comandos seja executada repetidamente, caso determinadas condições sejam satisfeitas.
 Essas condições são representadas por operações lógicas.
 
@@ -43,37 +41,67 @@ numero = numero+ 1;
 📍SOMAR
  ```
 
-numero += k;
+atalho -> numero += k;
 
-numero = numero + k;
+forma original -> numero = numero + k;
 ```
 
 📍SUBTRAIR
 
  ```
 
-numero -= k;
+atalho -> numero -= k;
 
-numero = numero - k;
+forma original -> numero = numero - k;
 ```
 
 📍MULTIPLICAR
 
  ```
 
-numero *= k;
+atalho -> numero *= k;
 
-numero = numero * k;
+forma original -> numero = numero * k;
 ```
 
 📍DIVIDIR
 
  ```
 
-numero /= k;
+atalho -> numero /= k;
 
-numero = numero / k;
+forma original -> numero = numero / k;
 ```
+
+🔺ARRAYS
+> É um objeto utilizado para armazenar sequencialmente dados do mesmo tipo.
+
+ - Permanecem com o mesmo tamanho depois de criados
+
+📍 Array Unidimensional
+
+O nome do array é "c" e o índice é o que organiza as posições(os colchetes). Exemplo:
+
+| c[0] | 1 |
+|------|---|
+| c[1] | 2 |
+| c[2] | 3 |
+| c[3] | 4 |
+
+📍 Array Multidimensional
+
+O nome do array é "a", indice de coluna e indice de linha. Exemplo:
+
+|         | Coluna 0 | Coluna 1 | Coluna 2 | Coluna 3 |
+|---------|----------|----------|----------|----------|
+| Linha 0 | a[0][0]  | a[0][1]  | a[0][2]  | a[0][3]  |
+| Linha 1 | a[1][0]  | a[1][1]  | a[1][2]  | a[1][3]  |
+| Linha 2 | a[2][0]  | a[2][1]  | a[2][2]  | a[2][3]  |
+ 
+
+
+
+
 
 
 
