@@ -1,5 +1,5 @@
 
-🔺 ESTRUTURAS DE REPETIÇÃO
+🔺 ESTRUTURAS DE REPETIÇÃO JAVA
 > Uma estrutura de repetição permite que uma sequência de comandos seja executada repetidamente, caso determinadas condições sejam satisfeitas.
 Essas condições são representadas por operações lógicas.
 
