@@ -27,7 +27,7 @@ public class ParEImpar {
             numero = scan.nextInt();
 
             if ((numero % 2) == 0 ){
-                par++;                
+                par++;
             }else
                 impar++;
 
